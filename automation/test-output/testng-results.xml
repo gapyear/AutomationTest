@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="12344" started-at="2019-03-27T03:29:55Z" finished-at="2019-03-27T03:30:07Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="12344" started-at="2019-03-27T03:29:55Z" finished-at="2019-03-27T03:30:07Z">
+      <class name="com.automation.testsuite.NewTest">
+        <test-method status="PASS" signature="testLogin()[pri:0, instance:com.automation.testsuite.NewTest@42d80b78]" name="testLogin" duration-ms="12293" started-at="2019-03-27T03:29:55Z" finished-at="2019-03-27T03:30:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+      </class> <!-- com.automation.testsuite.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
